@@ -48,12 +48,6 @@ The dashboard provides analysis across:
 
 ![Beverage Sales Dashboard](dashboard-preview.png)
 
-## 📂 Project Files
-
-- `Beverage-Sales-Dashboard.pbix` – Power BI project file
-- `dashboard-preview.png` – Dashboard screenshot
-- `README.md` – Project documentation
-
 ## 💡 Key Takeaway
 
-This project demonstrates the use of Power BI to transform raw sales data into an interactive dashboard that supports commercial performance analysis across products, time, and geography.
+This project demonstrates the use of Power BI and Power Query to transform raw sales data into an interactive business intelligence dashboard, that supports commercial performance analysis across products, time, and geography.
